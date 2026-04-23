@@ -1,3 +1,5 @@
-# Welcome to your Lovable project
+📌 Description
+This is a lovable app portfolio project created for practice and learning purposes only.
+It demonstrates basic project structure, development workflow, and GitHub usage skills.
 
-TODO: Document your project here
+The project is not intended for production use, but for improving hands-on experience in software development.
