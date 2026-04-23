@@ -1,4 +1,6 @@
 📌 Description
+
+
 This is a lovable app portfolio project created for practice and learning purposes only.
 It demonstrates basic project structure, development workflow, and GitHub usage skills.
 
